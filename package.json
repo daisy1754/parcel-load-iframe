@@ -2,8 +2,9 @@
   "name": "parcel-load-iframe",
   "version": "1.0.0",
   "description": "toy example of using parcel and load iframe via loder script",
-  "main": "loader.js",
+  "main": "src/loader.js",
   "scripts": {
+    "build": "parcel build src/loader.js src/content.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": ""
