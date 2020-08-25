@@ -1,0 +1,10 @@
+{
+  "name": "parcel-load-iframe",
+  "version": "1.0.0",
+  "description": "toy example of using parcel and load iframe via loder script",
+  "main": "loader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": ""
+}
